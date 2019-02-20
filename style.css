@@ -1,0 +1,84 @@
+body {
+	-webkit-animation: colorchange 30s infinite; 
+    animation: colorchange 30s infinite;
+}
+
+@-webkit-keyframes colorchange {
+	0% {background: #773878;}
+	2.86% {background: #773878;}
+	5.71% {background: #6d3261;}
+	8.57% {background: #6d325c;}
+	11.43% {background: #743060;}
+	15.29% {background: #783163;}
+	17.14% {background: #783063;}
+	20% {background: #78305c;}
+	22.86% {background: #783053;}
+	25.71% {background: #7e2e55;}
+	28.57% {background: #832a56;}
+	31.43% {background: #8b2757;}
+	34.29% {background: #922158;}
+	37.14% {background: #9c225d;}
+	40% {background: #9c224d;}
+	42.86% {background: #ab1c4e;}
+	45.71% {background: #ab1c54;}
+	48.57% {background: #ab1c5b;}
+	51.43% {background: #ab1c67;}
+	54.29% {background: #ab1c74}
+	57.14% {background: #ab1c81}
+	60% {background: #ab1c93}
+	62.86% {background: #ab1ca0}
+	65.71% {background: #a81cab}
+	68.57% {background: #9f1fa1}
+	71.43% {background: #961f98}
+	74.29% {background: #851f87}
+	77.14% {background: #7a237c}
+	80% {background: #6c226d}
+	82.86% {background: #622263}
+	85.71% {background: #551e56}
+	88.57% {background: #502151}
+	91.43% {background: #552056}
+	94.29% {background: #5f2760;}
+	97.14% {background: #682e69;}
+	100% {background: #6e326f;}
+}
+
+@keyframes colorchange {
+		0% {background: #773878;}
+	2.86% {background: #773878;}
+	5.71% {background: #6d3261;}
+	8.57% {background: #6d325c;}
+	11.43% {background: #743060;}
+	15.29% {background: #783163;}
+	17.14% {background: #783063;}
+	20% {background: #78305c;}
+	22.86% {background: #783053;}
+	25.71% {background: #7e2e55;}
+	28.57% {background: #832a56;}
+	31.43% {background: #8b2757;}
+	34.29% {background: #922158;}
+	37.14% {background: #9c225d;}
+	40% {background: #9c224d;}
+	42.86% {background: #ab1c4e;}
+	45.71% {background: #ab1c54;}
+	48.57% {background: #ab1c5b;}
+	51.43% {background: #ab1c67;}
+	54.29% {background: #ab1c74}
+	57.14% {background: #ab1c81}
+	60% {background: #ab1c93}
+	62.86% {background: #ab1ca0}
+	65.71% {background: #a81cab}
+	68.57% {background: #9f1fa1}
+	71.43% {background: #961f98}
+	74.29% {background: #851f87}
+	77.14% {background: #7a237c}
+	80% {background: #6c226d}
+	82.86% {background: #622263}
+	85.71% {background: #551e56}
+	88.57% {background: #502151}
+	91.43% {background: #552056}
+	94.29% {background: #5f2760;}
+	97.14% {background: #682e69;}
+	100% {background: #6e326f;}
+}
+
+ 
